@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package account.ledger.pnb_transaction_importer;
 
 import com.opencsv.CSVReader;
@@ -25,7 +20,7 @@ import java.util.Map;
 
 /**
  *
- * @author Admin
+ * @author Banee Ishaque K
  */
 public class Main {
 
